@@ -1,0 +1,768 @@
+  <?xml version="1.0" encoding="utf-8" ?> 
+- <channels version="Mon, 10 Dec 2012 12:30:26.1156 GMT" info_time="Thu, 05 Apr 2007 09:19:03 GMT">
+- <group id="5" type="1" en="Filme" description="Filme">
+  Filme 
+- <channel id="149256" type="0" btype="0" language="ro">
+  <name en="Acasa">Acasa</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="" VideoAspect="0" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/149256</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/acasa_tv.jpg</thumbnail> 
+  </channel>
+- <channel id="148884" type="0" btype="0" language="ro">
+  <name en="Acasa Gold">Acasa Gold</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="" VideoAspect="0" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148884</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/acasa_tv_gold.jpg</thumbnail> 
+  </channel>
+- <channel id="148257" type="0" btype="0" language="ro">
+  <name en="Axn">Axn</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="400" VideoAspect="1.6" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148257</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/axn_central_europe.jpg</thumbnail> 
+  </channel>
+- <channel id="149261" type="0" btype="0" language="ro">
+  <name en="Axn Black">Axn Black</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="360" VideoAspect="1.78" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/149261</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/axn_black_us.png</thumbnail> 
+  </channel>
+- <channel id="149263" type="0" btype="0" language="ro">
+  <name en="Axn Spin">Axn Spin</name> 
+  <status>1</status> 
+  <kbps /> 
+  <stream_type VideoResolution="358" VideoAspect="1.79" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/149263</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/axn_spin_pl.jpg</thumbnail> 
+  </channel>
+- <channel id="149262" type="0" btype="0" language="ro">
+  <name en="Axn White">Axn White</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="360" VideoAspect="1.78" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/149262</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/axn_white_us.png</thumbnail> 
+  </channel>
+- <channel id="140566" type="0" btype="0" language="ro">
+  <name en="Cinemax">Cinemax</name> 
+  <status>1</status> 
+  <kbps /> 
+  <stream_type VideoResolution="" VideoAspect="0" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/140566</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cinemax_ce.jpg</thumbnail> 
+  </channel>
+- <channel id="151665" type="0" btype="0" language="ro">
+  <name en="Digi Film">Digi Film</name> 
+  <status>1</status> 
+  <kbps /> 
+  <stream_type VideoResolution="576" VideoAspect="1.78" AudioCodec="mp3" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/151665</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_film_ro.jpg</thumbnail> 
+  </channel>
+- <channel id="148885" type="0" btype="0" language="ro">
+  <name en="Diva Universal">Diva Universal</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="" VideoAspect="0" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148885</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/diva_universal_ro.jpg</thumbnail> 
+  </channel>
+- <channel id="148981" type="0" btype="0" language="ro">
+  <name en="Film Cafe">Film Cafe</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="420" VideoAspect="1.62" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148981</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/film_cafe_hu.png</thumbnail> 
+  </channel>
+- <channel id="148881" type="0" btype="0" language="ro">
+  <name en="Hbo">Hbo</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="420" VideoAspect="1.71" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148881</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo.jpg</thumbnail> 
+  </channel>
+- <channel id="148883" type="0" btype="0" language="ro">
+  <name en="Hbo Comedy">Hbo Comedy</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="388" VideoAspect="1.75" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148883</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_comedy_ceu.jpg</thumbnail> 
+  </channel>
+- <channel id="120607" type="0" btype="0" language="ro">
+  <name en="Mgm">Mgm</name> 
+  <status>1</status> 
+  <kbps /> 
+  <stream_type VideoResolution="480" VideoAspect="1.33" AudioCodec="wmav2" VideoCodec="wmv2">wmv2</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/120607</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mgm_us.jpg</thumbnail> 
+  </channel>
+- <channel id="148249" type="0" btype="0" language="ro">
+  <name en="Procinema">Procinema</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="480" VideoAspect="1.33" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148249</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pro_cinema.jpg</thumbnail> 
+  </channel>
+- <channel id="148260" type="0" btype="0" language="ro">
+  <name en="Tv 1000">Tv 1000</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="512" VideoAspect="1.25" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148260</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv1000_balkan.jpg</thumbnail> 
+  </channel>
+- <channel id="148255" type="0" btype="0" language="ro">
+  <name en="Universal Chanel">Universal Chanel</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="400" VideoAspect="1.6" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148255</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/uu/universal_channel.jpg</thumbnail> 
+  </channel>
+  </group>
+- <group id="1" type="1" en="Documentare" description="Documentare">
+  Documentare 
+- <channel id="148971" type="0" btype="0" language="ro">
+  <name en="Bbc Knowledge">Bbc Knowledge</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="420" VideoAspect="1.71" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148971</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_knowledge.jpg</thumbnail> 
+  </channel>
+- <channel id="74633" type="0" btype="0" language="ro">
+  <name en="Digi World">Digi World</name> 
+  <status>1</status> 
+  <kbps /> 
+  <stream_type VideoResolution="396" VideoAspect="1.51" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/74633</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_world_ro.jpg</thumbnail> 
+  </channel>
+- <channel id="148972" type="0" btype="0" language="ro">
+  <name en="Discovery Channel">Discovery Channel</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="360" VideoAspect="1.78" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148972</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_europe.jpg</thumbnail> 
+  </channel>
+- <channel id="148975" type="0" btype="0" language="ro">
+  <name en="Discovery Id">Discovery Id</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="360" VideoAspect="1.78" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148975</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_europe.jpg</thumbnail> 
+  </channel>
+- <channel id="148974" type="0" btype="0" language="ro">
+  <name en="Discovery Science">Discovery Science</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="360" VideoAspect="1.78" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148974</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_science_uk.jpg</thumbnail> 
+  </channel>
+- <channel id="148973" type="0" btype="0" language="ro">
+  <name en="Discovery World">Discovery World</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="360" VideoAspect="1.78" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148973</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_world.jpg</thumbnail> 
+  </channel>
+- <channel id="148253" type="0" btype="0" language="ro">
+  <name en="History Channel">History Channel</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="512" VideoAspect="1.25" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148253</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/history_us.jpg</thumbnail> 
+  </channel>
+- <channel id="148259" type="0" btype="0" language="ro">
+  <name en="Nat Geo Wild">Nat Geo Wild</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="480" VideoAspect="1.33" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148259</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_emea.jpg</thumbnail> 
+  </channel>
+- <channel id="148248" type="0" btype="0" language="ro">
+  <name en="National Geographic">National Geographic</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="388" VideoAspect="1.75" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148248</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.jpg</thumbnail> 
+  </channel>
+- <channel id="149269" type="0" btype="0" language="ro">
+  <name en="Viasat Explorer">Viasat Explorer</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="360" VideoAspect="1.78" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/149269</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_explorer.jpg</thumbnail> 
+  </channel>
+- <channel id="149268" type="0" btype="0" language="ro">
+  <name en="Viasat History">Viasat History</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="360" VideoAspect="1.78" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/149268</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_history.jpg</thumbnail> 
+  </channel>
+- <channel id="149267" type="0" btype="0" language="ro">
+  <name en="Viasat Nature">Viasat Nature</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="360" VideoAspect="1.78" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/149267</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_nature_east.jpg</thumbnail> 
+  </channel>
+  </group>
+- <group id="8" type="1" en="Sport" description="Sport">
+  Sport 
+- <channel id="172996" type="0" btype="0" language="ro">
+  <name en="Arenavision 1">Arenavision 1</name> 
+  <status>1</status> 
+  <kbps /> 
+  <stream_type VideoResolution="720" VideoAspect="1.78" AudioCodec="mp3" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker2.sopcast.com:3912/172996</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://streams.magazinmixt.ro/img/protocol/sop.png</thumbnail> 
+  </channel>
+- <channel id="172997" type="0" btype="0" language="ro">
+  <name en="Arenavision 2">Arenavision 2</name> 
+  <status>1</status> 
+  <kbps /> 
+  <stream_type VideoResolution="540" VideoAspect="1.78" AudioCodec="mp3" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker2.sopcast.com:3912/172997</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://streams.magazinmixt.ro/img/protocol/sop.png</thumbnail> 
+  </channel>
+- <channel id="150337" type="0" btype="0" language="ro">
+  <name en="Digisport 1">Digisport 1</name> 
+  <status>1</status> 
+  <kbps /> 
+  <stream_type VideoResolution="420" VideoAspect="1.71" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/150337</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_sport1_ro.jpg</thumbnail> 
+  </channel>
+- <channel id="110152" type="0" btype="0" language="ro">
+  <name en="Digisport 1">Digisport 1</name> 
+  <status>1</status> 
+  <kbps /> 
+  <stream_type VideoResolution="480" VideoAspect="1.33" AudioCodec="wmav2" VideoCodec="wmv1">wmv1</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/110152</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_sport1_ro.jpg</thumbnail> 
+  </channel>
+- <channel id="173637" type="0" btype="0" language="ro">
+  <name en="Digisport 2">Digisport 2</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="" VideoAspect="0" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/173637</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_sport2_ro.jpg</thumbnail> 
+  </channel>
+- <channel id="150341" type="0" btype="0" language="ro">
+  <name en="Digisport 3">Digisport 3</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="420" VideoAspect="1.71" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/150341</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_sport3_ro.jpg</thumbnail> 
+  </channel>
+- <channel id="148980" type="0" btype="0" language="ro">
+  <name en="Dolcesport">Dolcesport</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="360" VideoAspect="1.78" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148980</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dolce_sport.jpg</thumbnail> 
+  </channel>
+- <channel id="148982" type="0" btype="0" language="ro">
+  <name en="Dolcesport 2">Dolcesport 2</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="360" VideoAspect="1.78" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148982</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dolce_sport.jpg</thumbnail> 
+  </channel>
+- <channel id="148983" type="0" btype="0" language="ro">
+  <name en="Dolcesport 3">Dolcesport 3</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="360" VideoAspect="1.78" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148983</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dolce_sport.jpg</thumbnail> 
+  </channel>
+- <channel id="148887" type="0" btype="0" language="ro">
+  <name en="Eurosport">Eurosport</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="388" VideoAspect="1.75" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148887</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport.jpg</thumbnail> 
+  </channel>
+- <channel id="124991" type="0" btype="0" language="ro">
+  <name en="Eurosport 2">Eurosport 2</name> 
+  <status>1</status> 
+  <kbps /> 
+  <stream_type VideoResolution="480" VideoAspect="1.33" AudioCodec="wmav2" VideoCodec="wmv3">wmv3</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/124991</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport2.jpg</thumbnail> 
+  </channel>
+- <channel id="148882" type="0" btype="0" language="ro">
+  <name en="Sport.ro">Sport.ro</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="420" VideoAspect="1.62" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148882</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_ro.jpg</thumbnail> 
+  </channel>
+  </group>
+- <group id="4" type="1" en="Pentru copii" description="Pentru copii">
+  Pentru copii 
+- <channel id="149264" type="0" btype="0" language="ro">
+  <name en="Boomerang">Boomerang</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="360" VideoAspect="1.78" AudioCodec="mp3" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/149264</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/boomerang_ce.jpg</thumbnail> 
+  </channel>
+- <channel id="148254" type="0" btype="0" language="ro">
+  <name en="Cartoon Network">Cartoon Network</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="388" VideoAspect="1.65" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148254</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network.jpg</thumbnail> 
+  </channel>
+- <channel id="148252" type="0" btype="0" language="ro">
+  <name en="Disney Channel">Disney Channel</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="420" VideoAspect="1.52" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148252</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/disney_channel_ro.jpg</thumbnail> 
+  </channel>
+- <channel id="148978" type="0" btype="0" language="ro">
+  <name en="Disney Junior">Disney Junior</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="400" VideoAspect="1.75" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148978</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/disney_junior_ro.jpg</thumbnail> 
+  </channel>
+- <channel id="122837" type="0" btype="0" language="ro">
+  <name en="Minimax">Minimax</name> 
+  <status>1</status> 
+  <kbps /> 
+  <stream_type VideoResolution="480" VideoAspect="1.33" AudioCodec="wmav2" VideoCodec="wmv3">wmv3</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/122837</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/minimax_ro.jpg</thumbnail> 
+  </channel>
+- <channel id="149266" type="0" btype="0" language="ro">
+  <name en="Nick Jr">Nick Jr</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="360" VideoAspect="1.78" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/149266</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nick_jr_us.jpg</thumbnail> 
+  </channel>
+- <channel id="149265" type="0" btype="0" language="ro">
+  <name en="Nickelodeon">Nickelodeon</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="420" VideoAspect="1.62" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/149265</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.jpg</thumbnail> 
+  </channel>
+  </group>
+  <group id="3" type="1" en="Muzica" description="Muzica">Muzica</group> 
+- <group id="6" type="1" en="Generale" description="Generale">
+  Generale 
+- <channel id="149257" type="0" btype="0" language="ro">
+  <name en="Antena 1">Antena 1</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="420" VideoAspect="1.68" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/149257</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/antena1_ro.jpg</thumbnail> 
+  </channel>
+- <channel id="149258" type="0" btype="0" language="ro">
+  <name en="Kanal D">Kanal D</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="" VideoAspect="0" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/149258</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.jpg</thumbnail> 
+  </channel>
+- <channel id="148251" type="0" btype="0" language="ro">
+  <name en="National Tv">National Tv</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="480" VideoAspect="1.33" AudioCodec="mp3" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148251</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/ntv_ro.jpg</thumbnail> 
+  </channel>
+- <channel id="148086" type="0" btype="0" language="ro">
+  <name en="Prima Tv">Prima Tv</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="420" VideoAspect="1.68" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148086</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/prima_tv.jpg</thumbnail> 
+  </channel>
+- <channel id="151929" type="0" btype="0" language="ro">
+  <name en="Protv">Protv</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="" VideoAspect="0" AudioCodec="mp3" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/151929</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pro_tv.jpg</thumbnail> 
+  </channel>
+- <channel id="149252" type="0" btype="0" language="ro">
+  <name en="Protv">Protv</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="" VideoAspect="0" AudioCodec="mp3" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/149252</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pro_tv.jpg</thumbnail> 
+  </channel>
+- <channel id="174008" type="0" btype="0" language="ro">
+  <name en="Tvr 1">Tvr 1</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="576" VideoAspect="1.25" AudioCodec="mp3" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/174008</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvr1_ro.jpg</thumbnail> 
+  </channel>
+- <channel id="150342" type="0" btype="0" language="ro">
+  <name en="Tvr 1">Tvr 1</name> 
+  <status>1</status> 
+  <kbps /> 
+  <stream_type VideoResolution="420" VideoAspect="1.71" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/150342</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvr1_ro.jpg</thumbnail> 
+  </channel>
+- <channel id="173952" type="0" btype="0" language="ro">
+  <name en="Tvr 1">Tvr 1</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="420" VideoAspect="1.71" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/173952</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvr1_ro.jpg</thumbnail> 
+  </channel>
+- <channel id="173950" type="0" btype="0" language="ro">
+  <name en="Tvr 1">Tvr 1</name> 
+  <status>1</status> 
+  <kbps /> 
+  <stream_type VideoResolution="420" VideoAspect="1.71" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/173950</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvr1_ro.jpg</thumbnail> 
+  </channel>
+- <channel id="148888" type="0" btype="0" language="ro">
+  <name en="Tvr 2">Tvr 2</name> 
+  <status>1</status> 
+  <kbps /> 
+  <stream_type VideoResolution="420" VideoAspect="1.62" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148888</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvr2_ro.jpg</thumbnail> 
+  </channel>
+- <channel id="173951" type="0" btype="0" language="ro">
+  <name en="Tvr 2">Tvr 2</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="" VideoAspect="0" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/173951</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvr2_ro.jpg</thumbnail> 
+  </channel>
+  </group>
+- <group id="7" type="1" en="Life Style" description="Life Style">
+  Life Style 
+- <channel id="148261" type="0" btype="0" language="ro">
+  <name en="Antena Stars">Antena Stars</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="" VideoAspect="0" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148261</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://media.port-network.com/picture/instance_7/1106199_7.gif</thumbnail> 
+  </channel>
+- <channel id="74632" type="0" btype="0" language="ro">
+  <name en="Digi Life">Digi Life</name> 
+  <status>1</status> 
+  <kbps /> 
+  <stream_type VideoResolution="396" VideoAspect="1.63" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/74632</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_life_ro.jpg</thumbnail> 
+  </channel>
+- <channel id="148886" type="0" btype="0" language="ro">
+  <name en="Euforia">Euforia</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="420" VideoAspect="1.62" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148886</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/euforia_lifestyle_tv.jpg</thumbnail> 
+  </channel>
+- <channel id="148977" type="0" btype="0" language="ro">
+  <name en="Tlc">Tlc</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="360" VideoAspect="1.78" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148977</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tlc_us.jpg</thumbnail> 
+  </channel>
+  </group>
+- <group id="2" type="1" en="Stiri" description="Stiri">
+  Stiri 
+- <channel id="148084" type="0" btype="0" language="ro">
+  <name en="Antena3">Antena3</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="388" VideoAspect="1.75" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148084</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/hires/aa/antena3_ro.png</thumbnail> 
+  </channel>
+- <channel id="148087" type="0" btype="0" language="ro">
+  <name en="B1">B1</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="" VideoAspect="0" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148087</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/b1_tv.jpg</thumbnail> 
+  </channel>
+- <channel id="148258" type="0" btype="0" language="ro">
+  <name en="Realitatea Tv">Realitatea Tv</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="400" VideoAspect="1.6" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148258</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/realitatea_tv.jpg</thumbnail> 
+  </channel>
+- <channel id="148976" type="0" btype="0" language="ro">
+  <name en="Romania Tv">Romania Tv</name> 
+  <status>2</status> 
+  <kbps /> 
+  <stream_type VideoResolution="358" VideoAspect="1.34" AudioCodec="mp2" VideoCodec="h264">h264</stream_type> 
+- <sop_address>
+  <item>sop://broker.sopcast.com:3912/148976</item> 
+  </sop_address>
+  <description /> 
+  <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtv_ro.jpg</thumbnail> 
+  </channel>
+  </group>
+  <group id="9" type="1" en="Regionale" description="Regionale">Regionale</group> 
+  <group id="10" type="1" en="Moldova" description="Moldova">Moldova</group> 
+  <group id="100" type="1" en="Radio" description="Radio">Radio</group> 
+  <group id="200" type="1" en="filmeonlinenoi.org" description="filmeonlinenoi.org">filmeonlinenoi.org</group> 
+  <group id="201" type="1" en="990.ro - filme" description="990.ro - filme">990.ro - filme</group> 
+  <group id="202" type="1" en="990.ro - seriale" description="990.ro - seriale">990.ro - seriale</group> 
+  </channels>
